@@ -1,2 +1,3 @@
 # biopython_rep
-Repository of functional scripts in Biopython
+Individual repository of functional scripts in Biopython.
+
