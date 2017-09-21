@@ -16,9 +16,4 @@ with open('rosalind_gc.txt', 'rU') as handle:
 print('-----------------')
 print (maximum)
 print(max(dict.values()))
-#print (record_dict)
 
-
-
-    #for record in SeqIO.parse(handle, 'fasta'):
-    #    print (record.id + '\n' + str(count_gc(record.seq)))
